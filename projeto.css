@@ -2,6 +2,7 @@
     margin: 0;
     font-size: 23px;
     background-color:lightsteelblue;
+    box-sizing: border-box;
 }
 header{
     width: 100vw;
@@ -108,7 +109,7 @@ input{
 
 fieldset{
     width: 90vw;
-    height: 70vh;
+    height: 100vh;
     flex-wrap: wrap;
     border: 2px solid;
 }
